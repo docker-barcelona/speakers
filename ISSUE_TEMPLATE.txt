@@ -1,31 +1,14 @@
----
-# Language of the Talk. Preferrable in English
-language: en | es
-
-# Provide a short title the content of your proposal (e.g. 'Introduction of docker-compose')
-title:
-
-# The name of the speaker (can be alias if preferred)
-speaker:
-
-# Type of proposal (Presentation is 30-45 mins | Lightning Talk is 5-10 mins)
-type: presentation | lightning
-
-# Talk Level
-level: basic | standard | advanced
-
-# 1-3 tags that describe the talk (e.g. monitoring, devops, live-coding, workshop)
-tags:
- -
- -
- -
-
----
+* **Language**: (en | es)
+* **Title**:
+* **Speaker**:
+* **Type**: (Presentation 30-45 mins | Lightning Talk 5-10 mins)
+* **Level**: (basic | standard | advanced)
+* **Tags**: (e.g. monitoring, devops, live-coding, workshop)
 
 **Description**
 
 *Provide a small paragraph that describes your proposal*
 
-**Speaker Bio**
+**Speaker Bio** (optional)
 
 *A short bio of the speaker*
