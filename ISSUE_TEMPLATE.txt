@@ -1,6 +1,6 @@
-* **Language**: (en | es)
 * **Title**:
 * **Speaker**:
+* **Language**: (en | es)
 * **Type**: (Presentation 30-45 mins | Lightning Talk 5-10 mins)
 * **Level**: (basic | standard | advanced)
 * **Tags**: (e.g. monitoring, devops, live-coding, workshop)
